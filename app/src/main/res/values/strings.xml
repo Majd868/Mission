@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="exit">Exit</string>
+    <string name="change_text">change Text</string>
+</resources>
